@@ -1,4 +1,5 @@
 ## Olá me chamo Victor.!!! 🐱‍💻
+
 ### Codinome: 00000000000001
 
 ###
@@ -6,12 +7,13 @@
 - 👨🏼‍💼 Desenvolvedor na Cheap Food.
 - 🥷🏼 Estudando: Tudo.
 
-
 ### <div align="center">
+
   <a href="https://github.com/VictorPortize">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPortize&layout=compact&langs_count=10&bg_color=90,000000,7fff00&theme=chartreuse-dark"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorPortize&show_icons=true&include_all_commits=true&count_private=true&layout=compact&bg_color=90,000000,7fff00&theme=chartreuse-dark&custom_title=Adam%20Code:000000000001%20Stats"/>
 </div>
+
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Victor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;">
@@ -22,6 +24,7 @@
   <img align="center" alt="Victor-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg" style="max-width: 100%;">
   <img align="center" alt="Victor-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" style="max-width: 100%;">
   <img align="center" alt="Victor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" style="max-width: 100%;">
+
   ##
  <div>
     <a href = "https://www.linkedin.com/in/victor-da-silva-soares-80a7a5174/"><img src="https://img.shields.io/badge/-Linkedin-1371cf?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -33,4 +36,3 @@
    ![Snake animation](https://github.com/VictorPortize/VictorPortize/blob/output/github-contribution-grid-snake.svg)
 
    </div>
- 
