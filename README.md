@@ -19,7 +19,9 @@
   <img align="center" alt="Victor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;">
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
-       
+  <img align="center" alt="Victor-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg" style="max-width: 100%;">
+  <img align="center" alt="Victor-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" style="max-width: 100%;">
+  <img align="center" alt="Victor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" style="max-width: 100%;">
   ##
  <div>
     <a href = "https://www.linkedin.com/in/victor-da-silva-soares-80a7a5174/"><img src="https://img.shields.io/badge/-Linkedin-1371cf?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
