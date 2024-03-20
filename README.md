@@ -1,11 +1,9 @@
 ## Olá me chamo Victor.!!! 🐱‍💻
 
-### Codinome: 00000000000001
-
 ###
 
 - 👨🏼‍💼 Desenvolvedor em Inhouse Market
-- 🥷🏼 Estudando: Tudo.
+- 🥷🏼 Estudando: Go and C++
 
 ### <div align="center">
 
